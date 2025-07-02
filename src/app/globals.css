@@ -3,6 +3,10 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --transparent-50 : rgba(0, 0, 0, 0.5);
+  --lumy-white: #f8f8f2;
+  --lumy-green: #50fa7b;
+  --lumy-green-transparent: rgba(80, 250, 123, 0.5);
 }
 
 @theme inline {

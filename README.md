@@ -33,3 +33,4 @@ A simple Next.js app to create and track your personal bucket list.
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Prisma](https://www.prisma.io/ (optional, for backend/database)
